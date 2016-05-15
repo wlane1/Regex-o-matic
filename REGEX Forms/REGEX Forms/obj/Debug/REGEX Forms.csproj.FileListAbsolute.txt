@@ -6,3 +6,13 @@ c:\users\wlane\documents\visual studio 2013\Projects\REGEX Forms\REGEX Forms\bin
 c:\users\wlane\documents\visual studio 2013\Projects\REGEX Forms\REGEX Forms\obj\Debug\REGEX Forms.exe
 c:\users\wlane\documents\visual studio 2013\Projects\REGEX Forms\REGEX Forms\obj\Debug\REGEX Forms.pdb
 c:\users\wlane\documents\visual studio 2013\Projects\REGEX Forms\REGEX Forms\obj\Debug\REGEX_Forms.Options.resources
+C:\dev\Regex-o-matic\REGEX Forms\REGEX Forms\bin\Debug\REGEX Forms.exe.config
+C:\dev\Regex-o-matic\REGEX Forms\REGEX Forms\obj\Debug\REGEX Forms.exe
+C:\dev\Regex-o-matic\REGEX Forms\REGEX Forms\obj\Debug\REGEX Forms.pdb
+C:\dev\Regex-o-matic\REGEX Forms\REGEX Forms\bin\Debug\REGEX Forms.exe
+C:\dev\Regex-o-matic\REGEX Forms\REGEX Forms\bin\Debug\REGEX Forms.pdb
+C:\dev\Regex-o-matic\REGEX Forms\REGEX Forms\obj\Debug\REGEX Forms.csprojResolveAssemblyReference.cache
+C:\dev\Regex-o-matic\REGEX Forms\REGEX Forms\obj\Debug\REGEX_Forms.Form1.resources
+C:\dev\Regex-o-matic\REGEX Forms\REGEX Forms\obj\Debug\REGEX_Forms.Options.resources
+C:\dev\Regex-o-matic\REGEX Forms\REGEX Forms\obj\Debug\REGEX_Forms.Properties.Resources.resources
+C:\dev\Regex-o-matic\REGEX Forms\REGEX Forms\obj\Debug\REGEX Forms.csproj.GenerateResource.Cache
